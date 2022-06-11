@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\bin\Debug\IM4.exe.config
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\bin\Debug\IM4.exe
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\bin\Debug\IM4.pdb
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.Form1.resources
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.exe
+C:\Users\xisao\Downloads\IM4-master\IM4-master\IM4\obj\Debug\IM4.pdb
